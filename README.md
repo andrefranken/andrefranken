@@ -10,8 +10,6 @@ Today I help companies and leaders in four ways:
 - 🌱 **Executive mentoring** for technology leaders working toward the C-level
 - 🧠 **AI strategy consulting**, from use case to production, governance included
 
-I am also VP of IT Operations at SUCESU.
-
 📫 Let's talk: [linkedin.com/in/andrefranken](https://linkedin.com/in/andrefranken)
 
 
