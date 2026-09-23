@@ -57,8 +57,11 @@ Onde nascem os bons posts. Propostas a partir do dossiê — **[confirmar cada u
 
 Fatos do dossiê — **[confirmar números antes de usar em post]**:
 
-- 25 anos operando tecnologia em escala de banco (Itaú, BV).
-- Ex-CIO/CTO do Banco BV; liderou tribos de tecnologia.
+- 25 anos operando tecnologia em escala, das pontocom aos grandes bancos.
+- Trabalha com IA desde 2010.
+- Ex-CTO do Itaú: liderou um dos maiores projetos de cloud privada da América Latina, base da transformação tecnológica do banco.
+- Ex-CTO do Banco BV: liderou transformação e operação de tecnologia e, como CIO, algumas tribos.
+- Empreendedor dentro e fora das corporações.
 - Projetos de DREX e Open Finance.
 - Palestra no IT Forum Praia do Forte 2025: case de IA em produção no BV (Google Cloud), no mesmo palco que a Globo.
 - Painel no Insper; speaker no Essence Room.
