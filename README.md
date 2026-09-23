@@ -1,5 +1,18 @@
 # 💫 About Me:
-CTO of BV Bank
+**Speaker, board advisor and executive mentor on enterprise AI, without the hype.**
+
+I spent 25 years running technology at banking scale, at Itaú and at Banco BV, where I served as CIO/CTO and led the technology tribes. My work included DREX, Open Finance and taking AI from pilot into production under banking regulation. I only talk about what I have actually operated.
+
+Today I help companies and leaders in four ways:
+
+- 🎤 **Keynotes and panels** on enterprise AI in production (IT Forum, Insper, Essence Room)
+- 🧭 **Advisory boards**, as a technology and AI advisor for CEOs, founders and boards
+- 🌱 **Executive mentoring** for technology leaders working toward the C-level
+- 🧠 **AI strategy consulting**, from use case to production, governance included
+
+I am also VP of IT Operations at SUCESU.
+
+📫 Let's talk: [linkedin.com/in/andrefranken](https://linkedin.com/in/andrefranken)
 
 
 ## 🌐 Socials:
