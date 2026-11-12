@@ -21,7 +21,8 @@ for Python em alguma fronteira, os Artigos I, II e V ganham equivalentes nessa l
 3. **Infraestrutura** (`infrastructure/`) implementa ports; nunca é importada pelo domínio.
 4. Server Actions e Route Handlers são **adaptadores primários** finos: validam (Zod),
    resolvem dependências no composition root e traduzem `Result` em resposta.
-5. Provedores de modelo (LLM), servidores MCP, conectores e sandboxes de código são
+5. Provedores de modelo (LLM, embeddings, transcrição e síntese de voz), servidores MCP, conectores,
+   armazenamentos de vetores e de grafo e sandboxes de código são
    **adaptadores secundários** atrás de ports. Nenhum provedor é referenciado pelo domínio.
 6. Violação de fronteira de import = **build quebrado** (lint + hook bloqueante).
 
@@ -98,6 +99,9 @@ for Python em alguma fronteira, os Artigos I, II e V ganham equivalentes nessa l
 4. Ação classificada como **irreversível** exige aprovação humana em produção, salvo política
    aprovada que dispense explicitamente.
 5. Todo agente/fluxo tem **limites declarados** (passos, tokens, tempo, custo); sem limite = inválido.
+6. Toda memória e todo fragmento de conhecimento carregam **proveniência** (fonte, data, autor ou
+   agente) e herdam as permissões da origem: nada é recuperado para quem não poderia ler a fonte, e
+   a memória de uma entidade nunca aparece no contexto de outra.
 
 ## Artigo X — Dados regulados e conformidade (específico deste produto)
 
